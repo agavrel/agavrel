@@ -15,7 +15,7 @@
 - :coffee: [__Github__](https://github.com/agavrel)
 - 🧐 [__LinkedIn__](https://www.linkedin.com/in/antonin-gavrel-086b2618/)
 - :fire: [__StackOverflow__](https://stackoverflow.com/users/3161139/antonin-gavrel)
-- :two_hearts: [__Website__](https://https://agavrel.github.io/)
+- :two_hearts: [__Website built eith Flutter__](https://agavrel.github.io/)
 
 
 <!--

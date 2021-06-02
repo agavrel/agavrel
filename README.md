@@ -1,3 +1,12 @@
+<div style="text-align:center;width:100%;display:inline-block;">
+  <div style="width:46%;margin:2%;display:inline-block;float:left;">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=agavrel&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=false&include_all_commits=true&show_icons=true&theme=graywhite" />
+  </div>
+  <div style="width:46%;margin:2%;display:inline-block;float:left;">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agavrel&layout=default&langs_count=10&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=false&card_width=600&line_height=35" />
+  </div>
+</div>
+
 |Developer |Entrepreneur |
 |-|-|
 | __![image](https://images.youracclaim.com/size/64x64/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)__ | __[AWS Solution Architect Certified](https://www.youracclaim.com/badges/bb0f9de1-9b3c-4f39-a185-5085a7823187/)__ |
